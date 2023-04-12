@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/thony-arrieche/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
     </a>
-    <a href="thonyarrieche77@gmail.com" target="_blank">
+    <a href="mailto:thonyarrieche77@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge" />
     </a>
   </div>
