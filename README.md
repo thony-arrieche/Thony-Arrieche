@@ -20,7 +20,7 @@
 ⌛ My latest projects:
 - [💬 ChatApp Front](https://github.com/thony-arrieche/chat-app-front)
 - [🍕 Pizza Delivery Site](https://github.com/thony-arrieche/pizza-delivery-website)
-- [💼 LinkedIn Copycat](https://github.com/thony-arrieche/linkedin-copycat)
+- [💼 LinkedIn Copycat](https://thony-arrieche.github.io/linkedin-copycat/)
 
 #
 📫 Best ways to reach me:
