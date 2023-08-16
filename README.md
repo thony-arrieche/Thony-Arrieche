@@ -16,14 +16,12 @@
   <li>⚡ Fun fact: My friends and most people close to me call me "Tiger" as Thony the Tiger 🐯🥣</li>
 </ul>
 
-#
-⌛ My latest projects:
+#⌛ My latest projects:
 - [💬 ChatApp Front](https://github.com/thony-arrieche/chat-app-front)
 - [💼 LinkedIn Copycat](https://thony-arrieche.github.io/linkedin-copycat/)
 - [👤 Login Page](https://github.com/thony-arrieche/07-login-page)
 
-#
-📫 Best ways to reach me:
+#📫 Best ways to reach me:
   <div id="social-badges">
     <a href="https://www.linkedin.com/in/thony-arrieche/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
@@ -33,8 +31,8 @@
     </a>
   </div>
 
-#
+# 📊 My Stats:
+<br/>
 <!-- these are generated thanks to this repo https://github.com/anuraghazra/github-readme-stats --> 
-📊 My Stats: <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thony-arrieche&theme=tokyonight)](https://github.com/thony-arrieche/github-readme-stats) <br/>
   ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thony-arrieche&theme=tokyonight)]
