@@ -37,4 +37,4 @@
 <!-- these are generated thanks to this repo https://github.com/anuraghazra/github-readme-stats --> 
 📊 My Stats: <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thony-arrieche&theme=tokyonight)](https://github.com/thony-arrieche/github-readme-stats) <br/>
-  ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thony-arrieche)](https://github.com/anuraghazra/github-readme-stats)
+  ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thony-arrieche)]
